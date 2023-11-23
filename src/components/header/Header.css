@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+}
+
+.header {
+    background-color: rgb(4, 28, 71);
+    padding: 50px;
+    text-align: left;
+    color: aliceblue;
+}

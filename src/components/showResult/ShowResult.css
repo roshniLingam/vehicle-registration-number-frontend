@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+}
+
+.result-text {
+    color:rgb(9, 69, 69);
+    font-size: 30px;
+    font-weight: 600;    
+    padding: 20px;
+}
+
+.result {
+    margin-top: 10%;
+}
